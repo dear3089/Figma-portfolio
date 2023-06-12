@@ -1,5 +1,12 @@
 
-## Figma Portfolio
+## UX Research & Figma Portfolio
+ ⚡**UX Research**
+
+> การศึกษาพฤติกรรมของผู้ใช้แผนที่ออนไลน์ในประเทศไทย
+
+https://docs.google.com/presentation/d/1lwFX3Ipo2lGBompT5gNgVtYtQofHaDOoyOTJQ246T1A/edit?usp=sharing
+<hr>
+
  ⚡**MEA Project**
 
 > การออกแบบหน้า Business landing pages ของการไฟฟ้า โดยให้ข้อมูลทางด้าน Data service
